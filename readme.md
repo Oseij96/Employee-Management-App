@@ -145,37 +145,37 @@ The analytics dashboard includes:
 
 ## Landing Page
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](Screenshots/landing-page.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
 ## Employee Form
 
-![Employee Form](screenshots/employee-form.png)
+![Employee Form](Screenshots/employee-form.png)
 
 ---
 
 ## Salary Analytics
 
-![Salary Analytics](screenshots/salary-analytics.png)
+![Salary Analytics](Screenshots/salary-analytics.png)
 
 ---
 
 ## Report Page On Smaller Screens
 
-![Mobile Report](screenshots/mobile-report.png)
+![Mobile Report](Screenshots/mobile-report.png)
 
 ---
 
 ## Dashboard On Smaller Screens
 
-![Mobile Dashboard](screenshots/mobile-dashboard.png)
+![Mobile Dashboard](Screenshots/mobile-dashboard.png)
 ---
 
 # Lessons Learned
